@@ -1,4 +1,4 @@
-name: Update russia RSS Feed
+name: Update wsj_syria RSS Feed
 
 on:
   schedule:
